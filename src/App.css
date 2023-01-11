@@ -1,0 +1,12 @@
+body {
+  --color1: #ddfbd2;
+  --color3: #4c2a85;
+  --color2: #c2b6aa;
+  --color4: #3b5249;
+  --color5: #ddfbd2;
+  --header-height: 40px;
+}
+
+body {
+  background-color: var(--color1);
+}
